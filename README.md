@@ -13,4 +13,4 @@ Quinto paso: Salir de nuestra base de datos.
 
 Y por ultimo paso: vamos a comprobar la conexión de nuestra base de datos.
 
-
+<img src="conexio base de dades captura.png" alt="conexio base de dades">
