@@ -1,7 +1,7 @@
 # Manual de configuración (MySQL)
 Primer paso: Vamos a proceder a entrar tipo de consola desde la terminal donde seguimos root hemos de ejecutar la siguiente comanda.
 
-1- sudo mysql
+1- sudo mysql 
 
 segundo paso: Vamos a proceder a hacer la creación de la base de datos.
 
