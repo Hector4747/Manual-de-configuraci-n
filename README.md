@@ -1,24 +1,16 @@
 # Manual de configuración (MySQL)
-Primer paso: Vamos a proceder a entrar tipo de consola desde la terminal donde seguimos root hemos de ejecutar la siguiente comanda.
-
-1- sudo mysql 
+Primer paso: Abrir MsyQL desde la terminal y la abres en modo administrador despues con los permisos se te abrira (mysql) que es el programa que quieres abrir y se entra como root significa que tu estas usando la cuenta principal la qual tiene todos los permisos.
 
 segundo paso: Vamos a proceder a hacer la creación de la base de datos.
 
-1-CREATE DATABASE bbdd;
 
 Tercer paso: Crear nuestro propio usuario.
 
-1- CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
-
 Cuarto paso: Tenemos que dar privilegios al usuario.
 
-1- GRANT ALL ON bbdd.* to 'usuario'@'localhost';
 
 Quinto paso: Salir de nuestra base de datos.
 
-1- exit
-
 Y por ultimo paso: vamos a comprobar la conexión de nuestra base de datos.
 
-1- mysql -u usuario -p
+
