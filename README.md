@@ -30,6 +30,9 @@ Y por ultimo el permiso y ver que todo funciona correctamente: Aqui estara el li
 Accedemos al navegador para ver que todo funciona correctamente.
 
 . usuari: usuario
+
 . contrasenya: password
+
 . base de dades: bbdd
+
 . domini: localhost
